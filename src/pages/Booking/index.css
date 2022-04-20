@@ -1,0 +1,22 @@
+.availableSlot:hover{
+    padding:1rem;
+}
+
+.bookedSlotBtn{
+    font-weight: bold;
+    
+}
+#slotText{
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+#slotArea{
+    border-color: #f25d26;
+    border-style: solid;
+    padding:3rem;
+    margin-top: 3rem;
+    border-radius: 10px;
+}

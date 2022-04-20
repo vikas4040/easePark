@@ -1,0 +1,49 @@
+#parkCard{
+    margin:1rem; 
+    border-color: #f25d26;  
+}
+#parkAddress{
+    text-transform: capitalize;
+}
+
+.pName{
+    color: grey;
+}
+.capacity{
+    color: #f25d26;
+    text-align: center;
+}
+
+h5{
+    text-transform: uppercase;
+}
+
+.pName{
+    text-align: center;
+}
+
+#p_title{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color:#f25d26;
+}
+
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+   
+    font-size: 1rem;
+  }
+  .on {
+    color: rgb(233, 229, 27);
+  }
+  .off {
+    color: #ccc;
+  }
+
+

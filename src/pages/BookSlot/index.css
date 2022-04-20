@@ -1,0 +1,11 @@
+
+#date-time{
+    padding: 1rem;
+    border-style: solid;
+    border-color: #f25d26;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+@import url("https://cdn.syncfusion.com/ej2/material.css")
+

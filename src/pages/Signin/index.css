@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+  }
+  
+  #logo{
+    size: 80px;
+    height: 50px;
+    padding: auto;
+    margin-right: 5px;
+}
+
+#siteName{
+    font-size: 2.5rem;
+    color: #f25d26;
+    font-weight: bold;
+}
+
+header{
+    margin:5px;
+}
+
+#email,#password{
+  border-color:#181717 ;
+}
+
+label,h1{
+  color:#f25d26;
+  font-size: 22px;
+}
+#other{
+  font-size: 10px;
+  line-height: 8px;
+}
+
+#signinform{
+  border: 1px solid white;
+  padding: 20px;
+  border-radius: 20px;
+  background-color:rgba(206, 240, 231, 0.973);
+}
+
+
+.linkq{
+  font-size: 18px;
+  text-decoration: none;
+  /* color: white; */
+  /* transition: 1s; */
+}
+.linkq:hover{
+  transform: scale(1.5);
+  color: rgb(255, 115, 0);
+}
+
+@media screen and (max-width:768px){
+  .form{
+    width: 80%;
+    margin: auto;
+    
+  }
+}
+
+span{
+  font-size: 18px;
+  margin-bottom: 20px;
+  
+}
+
+.signin{
+  background-color: tomato;
+}

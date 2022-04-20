@@ -1,0 +1,37 @@
+
+  .logo{
+      width: 140px;
+  }
+  nav button > a {
+    text-decoration: none;
+  }
+  nav button > a:hover {
+    color:white;
+  }
+  .nav-item a {
+    font-size: 18px;
+  }
+  .nav-item a:hover {
+    color: #0d6efd;
+  }
+  .footer{
+    background-color: #002147;
+  }
+  .footer p{
+     font-size: 14px;
+  }
+  .textlogo{
+     font-size: 60px;
+     font-weight: bold;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: orange;
+     position: relative;
+     z-index: 2;
+  }
+  .carlogo{
+     color: blue;
+     position: absolute;
+     left: 220px;
+     top: 40px;
+     z-index: 1;
+  }

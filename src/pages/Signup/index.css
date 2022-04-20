@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+}
+
+.heading{
+  font-weight: bold;
+  transition:2s ;
+  font-size: 60px;
+  text-shadow: 2px 2px 2px white;
+}
+.heading:hover{
+  transform: scale(1.3);
+}
+.label-control{
+  /* color: whitesmoke; */
+  font-weight: bold;
+  font-size: 18px;
+}
+.link{
+  font-size: 18px;
+  text-decoration: none;
+  /* color: white; */
+  /* transition: 1s; */
+}
+.link:hover{
+  transform: scale(1.5);
+  color: rgb(255, 115, 0);
+}
+
+.form{
+  border: 1px solid white;
+  padding: 20px;
+  border-radius: 20px;
+  background-color:rgba(206, 240, 231, 0.973);
+
+}
+
+@media screen and (max-width:768px){
+  .form{
+    width: 90%;
+    margin: auto;
+    
+    
+  }
+}
