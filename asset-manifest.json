@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/easepark/static/css/main.367c3bd1.css",
-    "main.js": "/easepark/static/js/main.7dc391c8.js",
+    "main.js": "/easepark/static/js/main.454995bf.js",
     "static/js/787.d3befce1.chunk.js": "/easepark/static/js/787.d3befce1.chunk.js",
     "static/media/Pune.png": "/easepark/static/media/Pune.48737df1e0d05128b221.png",
     "static/media/ease park main img.jpeg": "/easepark/static/media/ease park main img.e9ca848d98a7b2a7ac79.jpeg",
@@ -11,11 +11,11 @@
     "static/media/carlogo.svg": "/easepark/static/media/carlogo.4caafd8d66f74241dfaa073fe6323853.svg",
     "index.html": "/easepark/index.html",
     "main.367c3bd1.css.map": "/easepark/static/css/main.367c3bd1.css.map",
-    "main.7dc391c8.js.map": "/easepark/static/js/main.7dc391c8.js.map",
+    "main.454995bf.js.map": "/easepark/static/js/main.454995bf.js.map",
     "787.d3befce1.chunk.js.map": "/easepark/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.367c3bd1.css",
-    "static/js/main.7dc391c8.js"
+    "static/js/main.454995bf.js"
   ]
 }
